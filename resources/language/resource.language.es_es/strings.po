@@ -1,0 +1,7 @@
+msgid ""
+msgstr ""
+"Language: es_ES\n"
+
+msgctxt "#30000"
+msgid "Hola mundo"
+msgstr "Hola mundo"

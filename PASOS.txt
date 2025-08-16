@@ -1,0 +1,15 @@
+PASOS SÚPER SIMPLES
+
+1) Tienes un archivo listo para instalar en Kodi: plugin.video.hola-1.0.0.zip
+   - Cópialo a tu PC/TV
+   - Abre Kodi → Add-ons → Instalar desde un archivo .zip → elige ese ZIP
+
+2) Para tenerlo en tu GitHub:
+   - Crea una cuenta en github.com (si no la tienes)
+   - Crea un repositorio nuevo llamado plugin.video.hola
+   - Sube todo lo que hay dentro de la carpeta plugin.video.hola (incluido .github)
+   - En GitHub, entra en "Releases" → "Draft a new release"
+     * Tag: v1.0.0
+     * Título: v1.0.0
+     * Publica el release
+   - GitHub generará el ZIP instalable en esa misma página de Releases.
